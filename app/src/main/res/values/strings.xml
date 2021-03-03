@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Odometer</string>
+
+    <string name="notification_channel_name">Odometer Service</string>
+    <string name="notification_channel_desc">Odometer Service Notification Permission</string>
+    <string name="notification_title">Odometer</string>
+    <string name="notification_text">Location Permission Required</string>
 </resources>
